@@ -5,11 +5,25 @@
     "home_page_url": "https://jacarrasco.github.io/AILey_static_prod",
     "feed_url": "https://jacarrasco.github.io/AILey_static_prod/feed.json",
     "user_comment": "",
-    "icon": "https://jacarrasco.github.io/AILey_static_prod/media/website/DALLE-2023-11-11-10.04.14-Design-a-logo-that-combines-elements-of-artificial-intelligence-and-legal-scales-to-symbolize-legal-balance.-The-logo-should-feature-a-central-AI-them.png",
+    "icon": "https://jacarrasco.github.io/AILey_static_prod/media/website/AI-Ley.png",
     "author": {
         "name": "AI Ley"
     },
     "items": [
+        {
+            "id": "https://jacarrasco.github.io/AILey_static_prod/asesor-en-derecho-constitucional.html",
+            "url": "https://jacarrasco.github.io/AILey_static_prod/asesor-en-derecho-constitucional.html",
+            "title": "Especialista en derecho Constitucional",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://jacarrasco.github.io/AILey_static_prod/media/posts/12/Ailey-Logo-principal-cuadrado12.png",
+            "author": {
+                "name": "AI Ley"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-12-10T00:10:42+01:00",
+            "date_modified": "2023-12-10T00:36:47+01:00"
+        },
         {
             "id": "https://jacarrasco.github.io/AILey_static_prod/ai-ley-asesoramiento-legal-con-inteligencia-artificial-especializada.html",
             "url": "https://jacarrasco.github.io/AILey_static_prod/ai-ley-asesoramiento-legal-con-inteligencia-artificial-especializada.html",
@@ -27,128 +41,114 @@
         {
             "id": "https://jacarrasco.github.io/AILey_static_prod/gpt-en-derecho-internacional.html",
             "url": "https://jacarrasco.github.io/AILey_static_prod/gpt-en-derecho-internacional.html",
-            "title": "GPT en Derecho Internacional",
+            "title": "Especialista en Derecho Internacional y Comunitario de la Unión Europea",
             "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://jacarrasco.github.io/AILey_static_prod/media/posts/11/DALLE-2023-11-11-10.04.14-Design-a-logo-that-combines-elements-of-artificial-intelligence-and-legal-scales-to-symbolize-legal-balance.-The-logo-should-feature-a-central-AI-them.png",
+            "image": "https://jacarrasco.github.io/AILey_static_prod/media/posts/11/Ailey-Logo-principal-cuadrado10.png",
             "author": {
                 "name": "AI Ley"
             },
             "tags": [
             ],
             "date_published": "2023-11-10T21:31:23+01:00",
-            "date_modified": "2023-11-11T10:14:53+01:00"
-        },
-        {
-            "id": "https://jacarrasco.github.io/AILey_static_prod/gpt-espcializado-en-derecho-comunitario-de-la-union-europea.html",
-            "url": "https://jacarrasco.github.io/AILey_static_prod/gpt-espcializado-en-derecho-comunitario-de-la-union-europea.html",
-            "title": "GPT espcializado en Derecho comunitario de la Unión Europea",
-            "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://jacarrasco.github.io/AILey_static_prod/media/posts/10/DALLE-2023-11-11-10.04.14-Design-a-logo-that-combines-elements-of-artificial-intelligence-and-legal-scales-to-symbolize-legal-balance.-The-logo-should-feature-a-central-AI-them.png",
-            "author": {
-                "name": "AI Ley"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-11-10T21:14:21+01:00",
-            "date_modified": "2023-11-11T10:14:38+01:00"
+            "date_modified": "2023-12-09T23:34:49+01:00"
         },
         {
             "id": "https://jacarrasco.github.io/AILey_static_prod/gpt-especializado-en-derecho-mercantil.html",
             "url": "https://jacarrasco.github.io/AILey_static_prod/gpt-especializado-en-derecho-mercantil.html",
-            "title": "GPT especializado en Derecho Mercantil",
+            "title": "Especialista en Derecho Mercantil",
             "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://jacarrasco.github.io/AILey_static_prod/media/posts/9/DALLE-2023-11-11-10.04.14-Design-a-logo-that-combines-elements-of-artificial-intelligence-and-legal-scales-to-symbolize-legal-balance.-The-logo-should-feature-a-central-AI-them.png",
+            "image": "https://jacarrasco.github.io/AILey_static_prod/media/posts/9/Ailey-Logo-principal-cuadrado8.png",
             "author": {
                 "name": "AI Ley"
             },
             "tags": [
             ],
             "date_published": "2023-11-10T21:13:47+01:00",
-            "date_modified": "2023-11-11T10:14:28+01:00"
+            "date_modified": "2023-12-09T23:14:02+01:00"
         },
         {
             "id": "https://jacarrasco.github.io/AILey_static_prod/gpt-especializado-en-derecho-penal.html",
             "url": "https://jacarrasco.github.io/AILey_static_prod/gpt-especializado-en-derecho-penal.html",
-            "title": "GPT especializado en Derecho Penal",
+            "title": "Especialista en Derecho Penal",
             "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://jacarrasco.github.io/AILey_static_prod/media/posts/8/DALLE-2023-11-11-10.04.14-Design-a-logo-that-combines-elements-of-artificial-intelligence-and-legal-scales-to-symbolize-legal-balance.-The-logo-should-feature-a-central-AI-them.png",
+            "image": "https://jacarrasco.github.io/AILey_static_prod/media/posts/8/Ailey-Logo-principal-cuadrado7.png",
             "author": {
                 "name": "AI Ley"
             },
             "tags": [
             ],
             "date_published": "2023-11-10T21:13:00+01:00",
-            "date_modified": "2023-11-11T10:14:17+01:00"
+            "date_modified": "2023-12-09T23:12:52+01:00"
         },
         {
             "id": "https://jacarrasco.github.io/AILey_static_prod/gpt-especializado-en-derecho-procesal.html",
             "url": "https://jacarrasco.github.io/AILey_static_prod/gpt-especializado-en-derecho-procesal.html",
-            "title": "GPT especializado en Derecho Procesal",
+            "title": "Especialista en Derecho Procesal",
             "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://jacarrasco.github.io/AILey_static_prod/media/posts/7/DALLE-2023-11-11-10.04.14-Design-a-logo-that-combines-elements-of-artificial-intelligence-and-legal-scales-to-symbolize-legal-balance.-The-logo-should-feature-a-central-AI-them.png",
+            "image": "https://jacarrasco.github.io/AILey_static_prod/media/posts/7/Ailey-Logo-principal-cuadrado6.png",
             "author": {
                 "name": "AI Ley"
             },
             "tags": [
             ],
             "date_published": "2023-11-10T21:12:36+01:00",
-            "date_modified": "2023-11-11T10:14:05+01:00"
+            "date_modified": "2023-12-09T23:11:50+01:00"
         },
         {
             "id": "https://jacarrasco.github.io/AILey_static_prod/gpt-especializado-en-derecho-administrativo.html",
             "url": "https://jacarrasco.github.io/AILey_static_prod/gpt-especializado-en-derecho-administrativo.html",
-            "title": "GPT especializado en Derecho administrativo",
+            "title": "Especialista en Derecho administrativo",
             "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://jacarrasco.github.io/AILey_static_prod/media/posts/6/DALLE-2023-11-11-10.04.14-Design-a-logo-that-combines-elements-of-artificial-intelligence-and-legal-scales-to-symbolize-legal-balance.-The-logo-should-feature-a-central-AI-them.png",
+            "image": "https://jacarrasco.github.io/AILey_static_prod/media/posts/6/Ailey-Logo-principal-cuadrado5.png",
             "author": {
                 "name": "AI Ley"
             },
             "tags": [
             ],
             "date_published": "2023-11-10T21:11:45+01:00",
-            "date_modified": "2023-11-11T10:13:53+01:00"
+            "date_modified": "2023-12-09T23:10:24+01:00"
         },
         {
             "id": "https://jacarrasco.github.io/AILey_static_prod/gpt-de-asesoria-fiscal.html",
             "url": "https://jacarrasco.github.io/AILey_static_prod/gpt-de-asesoria-fiscal.html",
-            "title": "GPT de Asesoría Fiscal",
+            "title": "Especialista en Derecho laboral",
             "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://jacarrasco.github.io/AILey_static_prod/media/posts/5/DALLE-2023-11-11-10.04.14-Design-a-logo-that-combines-elements-of-artificial-intelligence-and-legal-scales-to-symbolize-legal-balance.-The-logo-should-feature-a-central-AI-them.png",
+            "image": "https://jacarrasco.github.io/AILey_static_prod/media/posts/5/Ailey-Logo-principal-cuadrado2.png",
             "author": {
                 "name": "AI Ley"
             },
             "tags": [
             ],
             "date_published": "2023-11-10T21:11:00+01:00",
-            "date_modified": "2023-11-11T10:13:43+01:00"
+            "date_modified": "2023-12-09T22:57:39+01:00"
         },
         {
             "id": "https://jacarrasco.github.io/AILey_static_prod/gpt-especializado-en-derecho-civil.html",
             "url": "https://jacarrasco.github.io/AILey_static_prod/gpt-especializado-en-derecho-civil.html",
-            "title": "GPT especializado en Derecho Civil",
+            "title": "Especialista en Derecho Civil",
             "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://jacarrasco.github.io/AILey_static_prod/media/posts/4/DALLE-2023-11-11-10.04.14-Design-a-logo-that-combines-elements-of-artificial-intelligence-and-legal-scales-to-symbolize-legal-balance.-The-logo-should-feature-a-central-AI-them.png",
+            "image": "https://jacarrasco.github.io/AILey_static_prod/media/posts/4/Ailey-Logo-principal-cuadrado3.png",
             "author": {
                 "name": "AI Ley"
             },
             "tags": [
             ],
             "date_published": "2023-11-10T21:10:32+01:00",
-            "date_modified": "2023-11-11T10:13:26+01:00"
+            "date_modified": "2023-12-09T22:55:21+01:00"
         },
         {
             "id": "https://jacarrasco.github.io/AILey_static_prod/gpt-en-derecho-laboral-espanol.html",
             "url": "https://jacarrasco.github.io/AILey_static_prod/gpt-en-derecho-laboral-espanol.html",
-            "title": "GPT en Derecho Laboral español",
+            "title": "Asesor Fiscal",
             "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://jacarrasco.github.io/AILey_static_prod/media/posts/3/DALLE-2023-11-11-10.04.14-Design-a-logo-that-combines-elements-of-artificial-intelligence-and-legal-scales-to-symbolize-legal-balance.-The-logo-should-feature-a-central-AI-them.png",
+            "image": "https://jacarrasco.github.io/AILey_static_prod/media/posts/3/Ailey-Logo-principal-cuadrado4.png",
             "author": {
                 "name": "AI Ley"
             },
             "tags": [
             ],
             "date_published": "2023-11-10T21:10:12+01:00",
-            "date_modified": "2023-11-11T10:06:18+01:00"
+            "date_modified": "2023-12-09T22:57:05+01:00"
         }
     ]
 }

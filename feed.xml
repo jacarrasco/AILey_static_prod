@@ -3,7 +3,7 @@
     <title>AI Ley</title>
     <link href="https://jacarrasco.github.io/AILey_static_prod/feed.xml" rel="self" />
     <link href="https://jacarrasco.github.io/AILey_static_prod" />
-    <updated>2023-12-10T23:25:45+01:00</updated>
+    <updated>2023-12-11T00:03:38+01:00</updated>
     <author>
         <name>AI Ley</name>
     </author>
@@ -90,15 +90,18 @@
         </author>
         <link href="https://jacarrasco.github.io/AILey_static_prod/ai-ley-asesoramiento-legal-con-inteligencia-artificial-especializada.html"/>
         <id>https://jacarrasco.github.io/AILey_static_prod/ai-ley-asesoramiento-legal-con-inteligencia-artificial-especializada.html</id>
+        <media:content url="https://jacarrasco.github.io/AILey_static_prod/media/posts/1/Ailey-Logo-principal-cuadrado-sin-bandera.png" medium="image" />
 
-        <updated>2023-12-10T23:25:45+01:00</updated>
+        <updated>2023-12-11T00:03:38+01:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://jacarrasco.github.io/AILey_static_prod/media/posts/1/Ailey-Logo-principal-cuadrado-sin-bandera.png" alt="" />
                     AI Ley es una plataforma donde la tecnología de inteligencia artificial se encuentra con el derecho español. Utilizamos modelos avanzados de GPT, cada uno meticulosamente diseñado para una rama específica del derecho. AI Ley ofrece una gama de asistentes especializados, proporcionando respuestas rápidas, precisas y personalizadas a sus consultas legales.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://jacarrasco.github.io/AILey_static_prod/media/posts/1/Ailey-Logo-principal-cuadrado-sin-bandera.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
     AI Ley es una plataforma donde la tecnología de inteligencia artificial se encuentra con el derecho español. Utilizamos modelos avanzados de GPT, cada uno meticulosamente diseñado para una rama específica del derecho. AI Ley ofrece una gama de asistentes especializados, proporcionando respuestas rápidas, precisas y personalizadas a sus consultas legales.

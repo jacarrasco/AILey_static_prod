@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>AI Ley</title>
-    <link href="https://jacarrasco.github.io/AILey_static_prod/feed.xml" rel="self" />
-    <link href="https://jacarrasco.github.io/AILey_static_prod" />
+    <link href="https://ailey.es/feed.xml" rel="self" />
+    <link href="https://ailey.es" />
     <updated>2023-12-11T00:36:02+01:00</updated>
     <author>
         <name>AI Ley</name>
     </author>
-    <id>https://jacarrasco.github.io/AILey_static_prod</id>
+    <id>https://ailey.es</id>
 
     <entry>
         <title>Especialista en derecho Constitucional</title>
         <author>
             <name>AI Ley</name>
         </author>
-        <link href="https://jacarrasco.github.io/AILey_static_prod/asesor-en-derecho-constitucional/"/>
-        <id>https://jacarrasco.github.io/AILey_static_prod/asesor-en-derecho-constitucional/</id>
-        <media:content url="https://jacarrasco.github.io/AILey_static_prod/media/posts/12/Ailey-Logo-principal-cuadrado12.png" medium="image" />
+        <link href="https://ailey.es/asesor-en-derecho-constitucional/"/>
+        <id>https://ailey.es/asesor-en-derecho-constitucional/</id>
+        <media:content url="https://ailey.es/media/posts/12/Ailey-Logo-principal-cuadrado12.png" medium="image" />
 
-        <updated>2023-12-11T00:34:46+01:00</updated>
+        <updated>2023-12-10T00:10:42+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jacarrasco.github.io/AILey_static_prod/media/posts/12/Ailey-Logo-principal-cuadrado12.png" alt="" />
+                        <img src="https://ailey.es/media/posts/12/Ailey-Logo-principal-cuadrado12.png" alt="" />
                     GPT Asesor en Derecho Constitucional Explorando los Fundamentos de la Constitución Española de 1978 El derecho constitucional es la piedra angular de la democracia y el Estado de derecho. En España, la Constitución de 1978 es un documento fundamental que define la relación entre el Estado y sus ciudadanos. El&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://jacarrasco.github.io/AILey_static_prod/media/posts/12/Ailey-Logo-principal-cuadrado12.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://ailey.es/media/posts/12/Ailey-Logo-principal-cuadrado12.png" class="type:primaryImage" alt="" /></p>
                 
     <h1 id="gpt-asesor-en-derecho-constitucional" class="align-center">
       <a href="https://chat.openai.com/g/g-wnU1nthlW-asesor-en-derecho-constitucional" target="_blank">
@@ -95,20 +95,20 @@
         <author>
             <name>AI Ley</name>
         </author>
-        <link href="https://jacarrasco.github.io/AILey_static_prod/ai-ley-asesoramiento-legal-con-inteligencia-artificial-especializada/"/>
-        <id>https://jacarrasco.github.io/AILey_static_prod/ai-ley-asesoramiento-legal-con-inteligencia-artificial-especializada/</id>
-        <media:content url="https://jacarrasco.github.io/AILey_static_prod/media/posts/1/Ailey-Logo-principal-cuadrado-sin-bandera.png" medium="image" />
+        <link href="https://ailey.es/ai-ley-asesoramiento-legal-con-inteligencia-artificial-especializada/"/>
+        <id>https://ailey.es/ai-ley-asesoramiento-legal-con-inteligencia-artificial-especializada/</id>
+        <media:content url="https://ailey.es/media/posts/1/Ailey-Logo-principal-cuadrado-sin-bandera.png" medium="image" />
 
-        <updated>2023-12-11T00:03:38+01:00</updated>
+        <updated>2023-11-10T21:31:36+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jacarrasco.github.io/AILey_static_prod/media/posts/1/Ailey-Logo-principal-cuadrado-sin-bandera.png" alt="" />
+                        <img src="https://ailey.es/media/posts/1/Ailey-Logo-principal-cuadrado-sin-bandera.png" alt="" />
                     AI Ley es una plataforma donde la tecnología de inteligencia artificial se encuentra con el derecho español. Utilizamos modelos avanzados de GPT, cada uno meticulosamente diseñado para una rama específica del derecho. AI Ley ofrece una gama de asistentes especializados, proporcionando respuestas rápidas, precisas y personalizadas a sus consultas legales.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://jacarrasco.github.io/AILey_static_prod/media/posts/1/Ailey-Logo-principal-cuadrado-sin-bandera.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://ailey.es/media/posts/1/Ailey-Logo-principal-cuadrado-sin-bandera.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
     AI Ley es una plataforma donde la tecnología de inteligencia artificial se encuentra con el derecho español. Utilizamos modelos avanzados de GPT, cada uno meticulosamente diseñado para una rama específica del derecho. AI Ley ofrece una gama de asistentes especializados, proporcionando respuestas rápidas, precisas y personalizadas a sus consultas legales.
@@ -125,20 +125,20 @@
         <author>
             <name>AI Ley</name>
         </author>
-        <link href="https://jacarrasco.github.io/AILey_static_prod/gpt-en-derecho-internacional/"/>
-        <id>https://jacarrasco.github.io/AILey_static_prod/gpt-en-derecho-internacional/</id>
-        <media:content url="https://jacarrasco.github.io/AILey_static_prod/media/posts/11/Ailey-Logo-principal-cuadrado10.png" medium="image" />
+        <link href="https://ailey.es/gpt-en-derecho-internacional/"/>
+        <id>https://ailey.es/gpt-en-derecho-internacional/</id>
+        <media:content url="https://ailey.es/media/posts/11/Ailey-Logo-principal-cuadrado10.png" medium="image" />
 
-        <updated>2023-12-11T00:33:54+01:00</updated>
+        <updated>2023-11-10T21:31:23+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jacarrasco.github.io/AILey_static_prod/media/posts/11/Ailey-Logo-principal-cuadrado10.png" alt="" />
+                        <img src="https://ailey.es/media/posts/11/Ailey-Logo-principal-cuadrado10.png" alt="" />
                     GPT Asesor en Derecho Internacional y de la UE Un Puente entre la Legislación Europea y Española En un mundo cada vez más globalizado y con la Unión Europea jugando un papel crucial en la legislación, comprender el derecho internacional y comunitario es fundamental. El GPT "Asesor en Derecho Internacional&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://jacarrasco.github.io/AILey_static_prod/media/posts/11/Ailey-Logo-principal-cuadrado10.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://ailey.es/media/posts/11/Ailey-Logo-principal-cuadrado10.png" class="type:primaryImage" alt="" /></p>
                 
     <h1 id="gpt-asesor-en-derecho-internacional-y-de-la-ue" class="align-center">
       <a href="https://chat.openai.com/g/g-1qtEfYoDM-asesor-en-derecho-internacional-y-de-la-ue" target="_blank">
@@ -206,20 +206,20 @@
         <author>
             <name>AI Ley</name>
         </author>
-        <link href="https://jacarrasco.github.io/AILey_static_prod/gpt-especializado-en-derecho-mercantil/"/>
-        <id>https://jacarrasco.github.io/AILey_static_prod/gpt-especializado-en-derecho-mercantil/</id>
-        <media:content url="https://jacarrasco.github.io/AILey_static_prod/media/posts/9/Ailey-Logo-principal-cuadrado8.png" medium="image" />
+        <link href="https://ailey.es/gpt-especializado-en-derecho-mercantil/"/>
+        <id>https://ailey.es/gpt-especializado-en-derecho-mercantil/</id>
+        <media:content url="https://ailey.es/media/posts/9/Ailey-Logo-principal-cuadrado8.png" medium="image" />
 
-        <updated>2023-12-11T00:32:55+01:00</updated>
+        <updated>2023-11-10T21:13:47+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jacarrasco.github.io/AILey_static_prod/media/posts/9/Ailey-Logo-principal-cuadrado8.png" alt="" />
+                        <img src="https://ailey.es/media/posts/9/Ailey-Logo-principal-cuadrado8.png" alt="" />
                     GPT Asesor en Derecho Mercantil &nbsp;Navegando por las Aguas del Comercio y Legislación Corporativa en España En el dinámico mundo del comercio y la gestión empresarial, comprender el derecho mercantil es esencial para el éxito y la conformidad legal. El GPT "Asesor en Derecho Mercantil" surge como una herramienta clave&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://jacarrasco.github.io/AILey_static_prod/media/posts/9/Ailey-Logo-principal-cuadrado8.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://ailey.es/media/posts/9/Ailey-Logo-principal-cuadrado8.png" class="type:primaryImage" alt="" /></p>
                 
     <h1 id="gpt-asesor-en-derecho-mercantil" class="align-center">
       <a href="https://chat.openai.com/g/g-oDMfKJRv2-asesor-en-derecho-mercantil" target="_blank">
@@ -287,20 +287,20 @@
         <author>
             <name>AI Ley</name>
         </author>
-        <link href="https://jacarrasco.github.io/AILey_static_prod/gpt-especializado-en-derecho-penal/"/>
-        <id>https://jacarrasco.github.io/AILey_static_prod/gpt-especializado-en-derecho-penal/</id>
-        <media:content url="https://jacarrasco.github.io/AILey_static_prod/media/posts/8/Ailey-Logo-principal-cuadrado7.png" medium="image" />
+        <link href="https://ailey.es/gpt-especializado-en-derecho-penal/"/>
+        <id>https://ailey.es/gpt-especializado-en-derecho-penal/</id>
+        <media:content url="https://ailey.es/media/posts/8/Ailey-Logo-principal-cuadrado7.png" medium="image" />
 
-        <updated>2023-12-11T00:36:02+01:00</updated>
+        <updated>2023-11-10T21:13:00+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jacarrasco.github.io/AILey_static_prod/media/posts/8/Ailey-Logo-principal-cuadrado7.png" alt="" />
+                        <img src="https://ailey.es/media/posts/8/Ailey-Logo-principal-cuadrado7.png" alt="" />
                     GPT Asesor en Derecho Penal &nbsp;Orientación Estratégica en el Laberinto del Derecho Penal Español El derecho penal es un campo complejo y delicado, donde la correcta interpretación de las leyes y la elaboración de estrategias de defensa adecuadas son cruciales. Nuestro GPT "Asesor en Derecho Penal" surge como una herramienta&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://jacarrasco.github.io/AILey_static_prod/media/posts/8/Ailey-Logo-principal-cuadrado7.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://ailey.es/media/posts/8/Ailey-Logo-principal-cuadrado7.png" class="type:primaryImage" alt="" /></p>
                 
     <h1 id="gpt-asesor-en-derecho-penal" class="align-center">
       <a href="https://chat.openai.com/g/g-8BDM1XaUE-asesor-en-derecho-penal" target="_blank">
@@ -368,20 +368,20 @@
         <author>
             <name>AI Ley</name>
         </author>
-        <link href="https://jacarrasco.github.io/AILey_static_prod/gpt-especializado-en-derecho-procesal/"/>
-        <id>https://jacarrasco.github.io/AILey_static_prod/gpt-especializado-en-derecho-procesal/</id>
-        <media:content url="https://jacarrasco.github.io/AILey_static_prod/media/posts/7/Ailey-Logo-principal-cuadrado6.png" medium="image" />
+        <link href="https://ailey.es/gpt-especializado-en-derecho-procesal/"/>
+        <id>https://ailey.es/gpt-especializado-en-derecho-procesal/</id>
+        <media:content url="https://ailey.es/media/posts/7/Ailey-Logo-principal-cuadrado6.png" medium="image" />
 
-        <updated>2023-12-11T00:30:55+01:00</updated>
+        <updated>2023-11-10T21:12:36+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jacarrasco.github.io/AILey_static_prod/media/posts/7/Ailey-Logo-principal-cuadrado6.png" alt="" />
+                        <img src="https://ailey.es/media/posts/7/Ailey-Logo-principal-cuadrado6.png" alt="" />
                     GPT Asesor en Derecho Procesal Garantizando la Integridad de los Procedimientos Judiciales en España El derecho procesal es la columna vertebral de la justicia, asegurando que los procedimientos judiciales se realicen de manera justa y conforme a la ley. En este contexto, nuestro GPT "Asesor en Derecho Procesal" emerge como&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://jacarrasco.github.io/AILey_static_prod/media/posts/7/Ailey-Logo-principal-cuadrado6.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://ailey.es/media/posts/7/Ailey-Logo-principal-cuadrado6.png" class="type:primaryImage" alt="" /></p>
                 
     <h1 id="gpt-asesor-en-derecho-procesal" class="align-center">
       <a href="https://chat.openai.com/g/g-DoogbEjMr-asesor-en-derecho-procesal" target="_blank">
@@ -449,20 +449,20 @@
         <author>
             <name>AI Ley</name>
         </author>
-        <link href="https://jacarrasco.github.io/AILey_static_prod/gpt-especializado-en-derecho-administrativo/"/>
-        <id>https://jacarrasco.github.io/AILey_static_prod/gpt-especializado-en-derecho-administrativo/</id>
-        <media:content url="https://jacarrasco.github.io/AILey_static_prod/media/posts/6/Ailey-Logo-principal-cuadrado5.png" medium="image" />
+        <link href="https://ailey.es/gpt-especializado-en-derecho-administrativo/"/>
+        <id>https://ailey.es/gpt-especializado-en-derecho-administrativo/</id>
+        <media:content url="https://ailey.es/media/posts/6/Ailey-Logo-principal-cuadrado5.png" medium="image" />
 
-        <updated>2023-12-11T00:29:42+01:00</updated>
+        <updated>2023-11-10T21:11:45+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jacarrasco.github.io/AILey_static_prod/media/posts/6/Ailey-Logo-principal-cuadrado5.png" alt="" />
+                        <img src="https://ailey.es/media/posts/6/Ailey-Logo-principal-cuadrado5.png" alt="" />
                     GPT Asesor en Derecho Administrativo &nbsp;Tu Guía para Navegar por la Administración Pública Española El mundo de la Administración Pública puede ser laberíntico, con una multitud de leyes, procedimientos y trámites que a menudo resultan confusos para los ciudadanos. Aquí es donde nuestro GPT "Asesor en Derecho Administrativo" desempeña un&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://jacarrasco.github.io/AILey_static_prod/media/posts/6/Ailey-Logo-principal-cuadrado5.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://ailey.es/media/posts/6/Ailey-Logo-principal-cuadrado5.png" class="type:primaryImage" alt="" /></p>
                 
     <h1 id="gpt-asesor-en-derecho-administrativo" class="align-center">
       <a href="https://chat.openai.com/g/g-YTPfE8ZrB-asesor-en-derecho-administrativo" target="_blank">
@@ -530,20 +530,20 @@
         <author>
             <name>AI Ley</name>
         </author>
-        <link href="https://jacarrasco.github.io/AILey_static_prod/gpt-de-asesoria-fiscal/"/>
-        <id>https://jacarrasco.github.io/AILey_static_prod/gpt-de-asesoria-fiscal/</id>
-        <media:content url="https://jacarrasco.github.io/AILey_static_prod/media/posts/5/Ailey-Logo-principal-cuadrado2.png" medium="image" />
+        <link href="https://ailey.es/gpt-de-asesoria-fiscal/"/>
+        <id>https://ailey.es/gpt-de-asesoria-fiscal/</id>
+        <media:content url="https://ailey.es/media/posts/5/Ailey-Logo-principal-cuadrado2.png" medium="image" />
 
-        <updated>2023-12-11T00:28:28+01:00</updated>
+        <updated>2023-11-10T21:11:00+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jacarrasco.github.io/AILey_static_prod/media/posts/5/Ailey-Logo-principal-cuadrado2.png" alt="" />
+                        <img src="https://ailey.es/media/posts/5/Ailey-Logo-principal-cuadrado2.png" alt="" />
                     GPT Asesor en Derecho Laboral &nbsp;Un Aliado Clave en el Entendimiento de las Leyes Laborales Españolas En el dinámico mundo del trabajo, entender las leyes laborales es fundamental tanto para empleadores como para trabajadores. Nuestro GPT "Asesor en Derecho Laboral" surge como una herramienta vital para navegar por el marco&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://jacarrasco.github.io/AILey_static_prod/media/posts/5/Ailey-Logo-principal-cuadrado2.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://ailey.es/media/posts/5/Ailey-Logo-principal-cuadrado2.png" class="type:primaryImage" alt="" /></p>
                 
     <h1 id="gpt-asesor-en-derecho-laboral" class="align-center">
       <a href="https://chat.openai.com/g/g-3Nq5cyxuh-asesor-en-derecho-laboral" target="_blank">
@@ -611,20 +611,20 @@
         <author>
             <name>AI Ley</name>
         </author>
-        <link href="https://jacarrasco.github.io/AILey_static_prod/gpt-especializado-en-derecho-civil/"/>
-        <id>https://jacarrasco.github.io/AILey_static_prod/gpt-especializado-en-derecho-civil/</id>
-        <media:content url="https://jacarrasco.github.io/AILey_static_prod/media/posts/4/Ailey-Logo-principal-cuadrado3.png" medium="image" />
+        <link href="https://ailey.es/gpt-especializado-en-derecho-civil/"/>
+        <id>https://ailey.es/gpt-especializado-en-derecho-civil/</id>
+        <media:content url="https://ailey.es/media/posts/4/Ailey-Logo-principal-cuadrado3.png" medium="image" />
 
-        <updated>2023-12-11T00:25:25+01:00</updated>
+        <updated>2023-11-10T21:10:32+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jacarrasco.github.io/AILey_static_prod/media/posts/4/Ailey-Logo-principal-cuadrado3.png" alt="" />
+                        <img src="https://ailey.es/media/posts/4/Ailey-Logo-principal-cuadrado3.png" alt="" />
                     GPT Asesor en Derecho Civil Navegando por el Mundo del Derecho Civil Español con IA El derecho civil es un campo amplio y a menudo complejo que abarca desde contratos hasta cuestiones de familia y propiedad. Para profesionales del derecho y particulares, mantenerse al día con las normativas y leyes&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://jacarrasco.github.io/AILey_static_prod/media/posts/4/Ailey-Logo-principal-cuadrado3.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://ailey.es/media/posts/4/Ailey-Logo-principal-cuadrado3.png" class="type:primaryImage" alt="" /></p>
                 
     <h1 id="gpt-asesor-en-derecho-civil" class="align-center">
       <a href="https://chat.openai.com/g/g-BBcUQL7qp-asesor-en-derecho-civil" target="_blank">
@@ -692,20 +692,20 @@
         <author>
             <name>AI Ley</name>
         </author>
-        <link href="https://jacarrasco.github.io/AILey_static_prod/gpt-en-derecho-laboral-espanol/"/>
-        <id>https://jacarrasco.github.io/AILey_static_prod/gpt-en-derecho-laboral-espanol/</id>
-        <media:content url="https://jacarrasco.github.io/AILey_static_prod/media/posts/3/Ailey-Logo-principal-cuadrado4.png" medium="image" />
+        <link href="https://ailey.es/gpt-en-derecho-laboral-espanol/"/>
+        <id>https://ailey.es/gpt-en-derecho-laboral-espanol/</id>
+        <media:content url="https://ailey.es/media/posts/3/Ailey-Logo-principal-cuadrado4.png" medium="image" />
 
-        <updated>2023-12-11T00:25:37+01:00</updated>
+        <updated>2023-11-10T21:10:12+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jacarrasco.github.io/AILey_static_prod/media/posts/3/Ailey-Logo-principal-cuadrado4.png" alt="" />
+                        <img src="https://ailey.es/media/posts/3/Ailey-Logo-principal-cuadrado4.png" alt="" />
                     GPT Asesor Fiscal y Tributario Tu Guía en el Laberinto del Derecho Fiscal Español Navegar por el complejo mundo del derecho fiscal y tributario español puede ser un desafío abrumador para empresas y particulares. Aquí es donde nuestro GPT "Asesor Fiscal y Tributario" entra en escena. Como un experto virtual&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://jacarrasco.github.io/AILey_static_prod/media/posts/3/Ailey-Logo-principal-cuadrado4.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://ailey.es/media/posts/3/Ailey-Logo-principal-cuadrado4.png" class="type:primaryImage" alt="" /></p>
                 
     <h1 id="gpt-asesor-fiscal-y-tributario" class="align-center">
       <a href="https://chat.openai.com/g/g-L1h5kKcx9-asesor-fiscal-y-tributario" target="_blank">
